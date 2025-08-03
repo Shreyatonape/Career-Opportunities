@@ -60,32 +60,34 @@ Maven or STS/IntelliJ
 🛠️ Steps
 
 1) Clone the project
-git clone https://github.com/your-username/career-opportunities.git
+   git clone https://github.com/your-username/career-opportunities.git
 cd career-opportunities
 
 
-2)Create PostgreSQL DB
-CREATE DATABASE career_db;
+ 2) Create PostgreSQL DB
+   CREATE DATABASE career_db;
 
 
-3)Configure application.properties
-spring.datasource.url=jdbc:postgresql://localhost:5432/career_db
-spring.datasource.username=your_username
-spring.datasource.password=your_password
-spring.jpa.hibernate.ddl-auto=update
-spring.jpa.show-sql=true
+ 3) Configure application.properties
+   spring.datasource.url=jdbc:postgresql://localhost:5432/career_db
+   spring.datasource.username=your_username
+   spring.datasource.password=your_password
+   spring.jpa.hibernate.ddl-auto=update
+   spring.jpa.show-sql=true
 
 
-4)Run the app
+4) Run the app
 ./mvnw spring-boot:run
 
 ---
 
 📫 Contact
-Shreya Tonape
-📧 shreyatonape65@gmail.com
-Sakshi Khandagale
-📧 sakshikhandagale0707@gmail.com
+
+   Shreya Tonape
+   📧 shreyatonape65@gmail.com
+
+   Sakshi Khandagale
+   📧 sakshikhandagale0707@gmail.com
 
 ---
 
