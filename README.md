@@ -46,6 +46,9 @@ HTML Output:
 
 <img width="1885" height="912" alt="HTML output" src="https://github.com/user-attachments/assets/03ca462b-b19e-4ec5-8ab4-ddbda25a6ecd" />
 
+<img width="1867" height="543" alt="HTML output1" src="https://github.com/user-attachments/assets/0bace7f8-2ea9-4236-8304-64b442593cde" />
+
+
 ---
 
 ## 📌 Features
