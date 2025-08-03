@@ -23,7 +23,7 @@ A simple and effective Spring Boot REST API backend that provides various career
  --- 
  ## 🗂️ Project Structure
 
-''''
+```
 src/
 └── main/
 ├── java/
@@ -34,7 +34,7 @@ src/
 │ └── service/ # Business logic layer (if added)
 └── resources/
 └── application.properties # DB configurations
-''''
+```
 
 # STS Output:
 
