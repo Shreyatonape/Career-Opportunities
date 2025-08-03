@@ -48,6 +48,12 @@ Postman Output:
 
 ---
 
+Database Output:
+
+<img width="1920" height="1080" alt="databaseOutput" src="https://github.com/user-attachments/assets/4830048a-d065-4850-b076-20ad698df3a1" />
+
+---
+
 HTML Output:
 
 <img width="1885" height="912" alt="HTML output" src="https://github.com/user-attachments/assets/03ca462b-b19e-4ec5-8ab4-ddbda25a6ecd" />
