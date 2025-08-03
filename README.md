@@ -54,7 +54,7 @@ Database Output:
 
 ---
 
-HTML Output:
+Frontend Output:
 
 <img width="1785" height="912" alt="HTML output" src="https://github.com/user-attachments/assets/03ca462b-b19e-4ec5-8ab4-ddbda25a6ecd" />
 
