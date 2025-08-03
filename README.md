@@ -40,22 +40,11 @@ src/
 
 ![STS output](https://github.com/user-attachments/assets/5045bb52-dc35-452b-8f20-c214748f22b6)
 
+---
 
+HTML Output:
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img width="1885" height="912" alt="HTML output" src="https://github.com/user-attachments/assets/03ca462b-b19e-4ec5-8ab4-ddbda25a6ecd" />
 
 ---
 
