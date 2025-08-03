@@ -35,6 +35,12 @@ src/
 └── resources/
 └── application.properties # DB configurations
 ```
+---
+Dependancies:
+
+<img width="840" height="818" alt="Dependancies" src="https://github.com/user-attachments/assets/c08058ed-39a7-48f7-8516-5764e4034dc8" />
+---
+
 
 # STS Output:
 
