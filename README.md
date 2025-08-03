@@ -1,4 +1,4 @@
-# 🎓 Career Opportunities 
+# 🎓 Career Opportunities :
 
 A simple and effective Spring Boot REST API backend that provides various career opportunities for students after completing SSC (10th grade). The project is built using **Java 17**, **Spring Boot**, and **PostgreSQL**, and follows the **MVC architecture**.
 
