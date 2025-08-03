@@ -84,9 +84,11 @@ cd career-opportunities
 📫 Contact
 
    Shreya Tonape
+   
    📧 shreyatonape65@gmail.com
 
    Sakshi Khandagale
+   
    📧 sakshikhandagale0707@gmail.com
 
 ---
