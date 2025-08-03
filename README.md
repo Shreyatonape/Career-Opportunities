@@ -44,19 +44,19 @@ src/
 
 Postman Output:
 
-<img width="1920" height="1080" alt="postmanOutput" src="https://github.com/user-attachments/assets/93e223c1-57d2-4cdf-ada6-4f85a884345e" />
+<img width="1820" height="980" alt="postmanOutput" src="https://github.com/user-attachments/assets/93e223c1-57d2-4cdf-ada6-4f85a884345e" />
 
 ---
 
 Database Output:
 
-<img width="1920" height="1080" alt="databaseOutput" src="https://github.com/user-attachments/assets/4830048a-d065-4850-b076-20ad698df3a1" />
+<img width="1820" height="980" alt="databaseOutput" src="https://github.com/user-attachments/assets/4830048a-d065-4850-b076-20ad698df3a1" />
 
 ---
 
 HTML Output:
 
-<img width="1885" height="912" alt="HTML output" src="https://github.com/user-attachments/assets/03ca462b-b19e-4ec5-8ab4-ddbda25a6ecd" />
+<img width="1785" height="912" alt="HTML output" src="https://github.com/user-attachments/assets/03ca462b-b19e-4ec5-8ab4-ddbda25a6ecd" />
 
 <img width="1867" height="543" alt="HTML output1" src="https://github.com/user-attachments/assets/0bace7f8-2ea9-4236-8304-64b442593cde" />
 
