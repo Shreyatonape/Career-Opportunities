@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Career Opportunities</title>
+  <link rel="stylesheet" href="style1.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+</head>
+<body>
+
+  <header>
+    <h1><i class="fa-solid fa-graduation-cap"></i> Introduction To Career Opportunities</h1>
+    <br><b>Just Follow Your Own Heart And Goals🤍!!</b>
+    <nav>
+      <ul>
+        <li><a href="#opportunities"><i class="fa-solid fa-house"></i> Home</a></li>
+        <li><a href="#details"><i class="fa-solid fa-circle-info"></i> Details</a></li>
+        <li><a href="#footer"><i class="fa-solid fa-envelope"></i> Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section class="career-list" id="opportunities">
+      <h2>🎓All Career Options:</h2>
+      <div id="opportunityList"></div>
+    </section>
+
+    <section class="career-details" id="details">
+      <h2>View Career Details</h2>
+      <input type="number" id="careerIdInput" placeholder="Enter Career ID" />
+      <button onclick="getCareerDetails()">View Details</button>
+      <div id="careerDetails"></div>
+    </section>
+  </main>
+
+ <footer id="footer">
+  <p>&copy; 2025 Career Path Finder | Developed by Shreya & Sakshi</p>
+  <p>Contact: <a href="tel:+917558630102">7558630102</a> | Email: <a href="mailto:shreyatonape@gmail.com">shreyatonape@gmail.com</a></p>
+  <div class="social-icons">
+    <a href="https://www.instagram.com/" target="_blank"><i class="fab fa-instagram"></i></a>
+    <a href="https://www.linkedin.com/" target="_blank"><i class="fab fa-linkedin"></i></a>
+    <a href="https://github.com/" target="_blank"><i class="fab fa-github"></i></a>
+  </div>
+</footer>
+
+
+  <script src="script1.js"></script>
+</body>
+</html>
