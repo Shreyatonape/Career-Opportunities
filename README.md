@@ -36,7 +36,7 @@ src/
 └── application.properties # DB configurations
 ```
 ---
-Dependencies:
+## Dependencies:
 
 <img width="840" height="818" alt="Dependancies" src="https://github.com/user-attachments/assets/c08058ed-39a7-48f7-8516-5764e4034dc8" />
 ---
@@ -77,7 +77,7 @@ Dependencies:
 
 ----
 
-▶️ How to Run the Project
+## ▶️ How to Run the Project
 
 📦 Prerequisites
 
@@ -110,7 +110,7 @@ cd career-opportunities
 
 ---
 
-📫 Contact
+## 📫 Contact
 
    Shreya Tonape
    
