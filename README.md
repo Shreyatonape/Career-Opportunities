@@ -48,7 +48,7 @@ Dependencies:
 
 ---
 
-Postman Output:
+Tested Using Postman:
 
 <img width="1820" height="980" alt="postmanOutput" src="https://github.com/user-attachments/assets/93e223c1-57d2-4cdf-ada6-4f85a884345e" />
 
@@ -60,7 +60,7 @@ Database Output:
 
 ---
 
-Frontend Output:
+Final Web Interface(Frontend):
 
 <img width="1785" height="912" alt="HTML output" src="https://github.com/user-attachments/assets/03ca462b-b19e-4ec5-8ab4-ddbda25a6ecd" />
 
