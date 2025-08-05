@@ -42,25 +42,25 @@ Dependencies:
 ---
 
 
-# STS Output:
+## STS Output:
 
 ![STS output](https://github.com/user-attachments/assets/5045bb52-dc35-452b-8f20-c214748f22b6)
 
 ---
 
-Tested Using Postman:
+## Tested Using Postman:
 
 <img width="1820" height="980" alt="postmanOutput" src="https://github.com/user-attachments/assets/93e223c1-57d2-4cdf-ada6-4f85a884345e" />
 
 ---
 
-Database Output:
+## Database Output:
 
 <img width="1820" height="980" alt="databaseOutput" src="https://github.com/user-attachments/assets/4830048a-d065-4850-b076-20ad698df3a1" />
 
 ---
 
-Final Web Interface(Frontend):
+## Final Web Interface(Frontend):
 
 <img width="1785" height="912" alt="HTML output" src="https://github.com/user-attachments/assets/03ca462b-b19e-4ec5-8ab4-ddbda25a6ecd" />
 
